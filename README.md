@@ -1,4 +1,4 @@
-# A5.2 - Programming Exercise 3
+# A6.2 - Programming Exercise 3
 
 ## Overview
 
