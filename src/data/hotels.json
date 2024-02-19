@@ -1,0 +1,42 @@
+[
+    {
+        "hotel_id": "001",
+        "name": "Updated Hotel",
+        "rooms": [
+            {
+                "101": "Available"
+            },
+            {
+                "102": "Booked"
+            }
+        ]
+    },
+    {
+        "hotel_id": "002",
+        "name": "Sample Hotel",
+        "rooms": [
+            {
+                "201": "Occupied"
+            },
+            {
+                "202": "Available"
+            }
+        ]
+    },
+    {
+        "hotel_id": "H001",
+        "name": "Test Hotel",
+        "rooms": {
+            "101": "Available",
+            "102": "Booked"
+        }
+    },
+    {
+        "hotel_id": "H002",
+        "name": "Sample Hotel",
+        "rooms": {
+            "201": "Occupied",
+            "202": "Available"
+        }
+    }
+]

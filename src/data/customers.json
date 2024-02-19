@@ -1,0 +1,18 @@
+[
+    {
+        "customer_id": "001",
+        "name": "John Smith"
+    },
+    {
+        "customer_id": "002",
+        "name": "Krista Doe"
+    },
+    {
+        "customer_id": "C001",
+        "name": "John Doe"
+    },
+    {
+        "customer_id": "C002",
+        "name": "Krista Doe"
+    }
+]
